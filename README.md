@@ -14,14 +14,17 @@ To run this project on your local machine, follow these steps:
 
 
 cd expense-tracker-react
+
 Install the required packages
 
 
 npm install
+
 Start the development server
 
 
 npm start
+
 Open your web browser and navigate to http://localhost:3000 to view the app.
 
 Technologies Used
